@@ -8,7 +8,7 @@ The main idea of plugin is to make possible a true Web Proxy control with capabi
 - Custom block pages;
 - RegEx based rules;
 
-The community version source code will be available in this repository. This effort is to try to help the OPNsense community to evolve the project in some way.
+The community version source code is available in this repository. This effort is to try to help the OPNsense community to evolve the project in some way.
 
 Feel free to improve it and share it!
 

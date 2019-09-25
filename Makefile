@@ -1,6 +1,6 @@
 PLUGIN_NAME=        web-filter-community
-PLUGIN_VERSION=        0.1
-PLUGIN_REVISION=    0
+PLUGIN_VERSION=        0.3
+PLUGIN_REVISION=    2
 PLUGIN_COMMENT=        Web Filter module
 PLUGIN_DEPENDS=         squidGuard
 PLUGIN_MAINTAINER=    jcamargo@cloudfence.com.br
